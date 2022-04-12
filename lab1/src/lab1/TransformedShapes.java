@@ -41,7 +41,7 @@ public class TransformedShapes extends JPanel
 
 		g2.translate(300, 300);
 		g2.scale(1, 1);
-		g2.translate(0, -100);
+		g2.translate(150, 50);
 		g2.setColor(Color.YELLOW);
 		square();
 
