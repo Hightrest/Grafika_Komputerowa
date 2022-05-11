@@ -82,7 +82,7 @@ public class lab5 extends GLJPanel implements GLEventListener, KeyListener
 		gl2.glRotatef(0, 0, 90, 0);
 		gl2.glTranslatef(0, 0, -1);
 
-		gl2.glBegin(GL.GL_LINE_STRIP);
+		gl2.glBegin(GL.GL_POINTS);
 		int res = 36;
 		float deg = 360 / res;
 
