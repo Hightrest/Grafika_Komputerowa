@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\hp\\Desktop\\Grafika_Komputerowa\\lab6\\jogamp-fat-2.3.2.jar",
+            "jogamp-fat-2.3.2.jar"
+        ],
+        "exclude": [
+            "d:\\GIT\\GK\\lab6\\jogamp-fat-2.3.2.jar"
+        ]
+    }
+}
